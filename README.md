@@ -1,6 +1,6 @@
 # watsonwork-helloworld
 
-[![Build Status](https://travis-ci.org/watsonwork/watsonwork-helloworld.svg)](https://travis-ci.org/watsonwork/watsonwork-helloworld)
+[![Build Status](https://travis-ci.org/bmustan/helloworld.svg)](https://travis-ci.org/bmustan/helloworld)
 
 A Node.js sample app that sends a *Hello World* message to a space in
 [IBM Watson Workspace] (https://workspace.ibm.com).
