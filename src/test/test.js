@@ -15,7 +15,7 @@ require.cache[require.resolve('request')].exports = {
 // Load the HelloWorld app
 const helloworld = require('../app');
 
-describe('watsonwork-helloworld', () => {
+describe('helloworld', () => {
   it('sends a hello world message to a space', (done) => {
 
     // Check async callbacks
