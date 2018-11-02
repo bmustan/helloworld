@@ -1,4 +1,4 @@
-# watsonwork-helloworld
+# helloworld
 
 [![Build Status](https://travis-ci.org/bmustan/helloworld.svg)](https://travis-ci.org/bmustan/helloworld)
 
